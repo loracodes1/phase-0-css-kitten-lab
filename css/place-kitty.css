@@ -7,7 +7,7 @@
 }
 
 /* Select the image with id of kitty-2 */
-write-your-selector-here {
+#kitty-2{
   position: absolute;
   z-index: 2;
   top: 212px;
@@ -15,7 +15,7 @@ write-your-selector-here {
 }
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
-write-your-selector-here {
+{
   position: absolute;
   z-index: 5;
   top: 291px;
